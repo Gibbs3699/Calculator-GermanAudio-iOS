@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84192A5C27102D58007CCD6A /* 0.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84192A5B27102D58007CCD6A /* 0.mp3 */; };
+		843AA6CB270F4CDE005D5425 /* 7.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 843AA6C1270F4CDE005D5425 /* 7.mp3 */; };
+		843AA6CC270F4CDE005D5425 /* 6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 843AA6C2270F4CDE005D5425 /* 6.mp3 */; };
+		843AA6CD270F4CDE005D5425 /* 4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 843AA6C3270F4CDE005D5425 /* 4.mp3 */; };
+		843AA6CE270F4CDE005D5425 /* 5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 843AA6C4270F4CDE005D5425 /* 5.mp3 */; };
+		843AA6CF270F4CDE005D5425 /* 1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 843AA6C5270F4CDE005D5425 /* 1.mp3 */; };
+		843AA6D0270F4CDE005D5425 /* 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 843AA6C6270F4CDE005D5425 /* 2.mp3 */; };
+		843AA6D1270F4CDE005D5425 /* 3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 843AA6C7270F4CDE005D5425 /* 3.mp3 */; };
+		843AA6D3270F4CDE005D5425 /* 8.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 843AA6C9270F4CDE005D5425 /* 8.mp3 */; };
+		843AA6D4270F4CDE005D5425 /* 9.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 843AA6CA270F4CDE005D5425 /* 9.mp3 */; };
 		ADB196212146629E00C5317F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB196202146629E00C5317F /* AppDelegate.swift */; };
 		ADB196232146629E00C5317F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB196222146629E00C5317F /* ViewController.swift */; };
 		ADB196262146629E00C5317F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADB196242146629E00C5317F /* Main.storyboard */; };
@@ -15,6 +25,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		84192A5B27102D58007CCD6A /* 0.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 0.mp3; sourceTree = "<group>"; };
+		843AA6C1270F4CDE005D5425 /* 7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 7.mp3; sourceTree = "<group>"; };
+		843AA6C2270F4CDE005D5425 /* 6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 6.mp3; sourceTree = "<group>"; };
+		843AA6C3270F4CDE005D5425 /* 4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 4.mp3; sourceTree = "<group>"; };
+		843AA6C4270F4CDE005D5425 /* 5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5.mp3; sourceTree = "<group>"; };
+		843AA6C5270F4CDE005D5425 /* 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1.mp3; sourceTree = "<group>"; };
+		843AA6C6270F4CDE005D5425 /* 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2.mp3; sourceTree = "<group>"; };
+		843AA6C7270F4CDE005D5425 /* 3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3.mp3; sourceTree = "<group>"; };
+		843AA6C9270F4CDE005D5425 /* 8.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 8.mp3; sourceTree = "<group>"; };
+		843AA6CA270F4CDE005D5425 /* 9.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 9.mp3; sourceTree = "<group>"; };
 		ADB1961D2146629E00C5317F /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADB196202146629E00C5317F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ADB196222146629E00C5317F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,6 +55,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		843AA6C0270F4CDE005D5425 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				84192A5B27102D58007CCD6A /* 0.mp3 */,
+				843AA6C1270F4CDE005D5425 /* 7.mp3 */,
+				843AA6C2270F4CDE005D5425 /* 6.mp3 */,
+				843AA6C3270F4CDE005D5425 /* 4.mp3 */,
+				843AA6C4270F4CDE005D5425 /* 5.mp3 */,
+				843AA6C5270F4CDE005D5425 /* 1.mp3 */,
+				843AA6C6270F4CDE005D5425 /* 2.mp3 */,
+				843AA6C7270F4CDE005D5425 /* 3.mp3 */,
+				843AA6C9270F4CDE005D5425 /* 8.mp3 */,
+				843AA6CA270F4CDE005D5425 /* 9.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
 		ADB196142146629E00C5317F = {
 			isa = PBXGroup;
 			children = (
@@ -60,6 +97,7 @@
 				ADB19627214662A000C5317F /* Assets.xcassets */,
 				ADB19629214662A000C5317F /* LaunchScreen.storyboard */,
 				ADB1962C214662A000C5317F /* Info.plist */,
+				843AA6C0270F4CDE005D5425 /* Sounds */,
 			);
 			path = Calculator;
 			sourceTree = "<group>";
@@ -123,9 +161,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84192A5C27102D58007CCD6A /* 0.mp3 in Resources */,
+				843AA6D1270F4CDE005D5425 /* 3.mp3 in Resources */,
+				843AA6CE270F4CDE005D5425 /* 5.mp3 in Resources */,
 				ADB1962B214662A000C5317F /* LaunchScreen.storyboard in Resources */,
+				843AA6D3270F4CDE005D5425 /* 8.mp3 in Resources */,
 				ADB19628214662A000C5317F /* Assets.xcassets in Resources */,
+				843AA6CB270F4CDE005D5425 /* 7.mp3 in Resources */,
+				843AA6CF270F4CDE005D5425 /* 1.mp3 in Resources */,
+				843AA6D4270F4CDE005D5425 /* 9.mp3 in Resources */,
+				843AA6CD270F4CDE005D5425 /* 4.mp3 in Resources */,
+				843AA6D0270F4CDE005D5425 /* 2.mp3 in Resources */,
 				ADB196262146629E00C5317F /* Main.storyboard in Resources */,
+				843AA6CC270F4CDE005D5425 /* 6.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,13 +332,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 3ECFYJZ64T;
+				DEVELOPMENT_TEAM = 5NV8L9334K;
 				INFOPLIST_FILE = Calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.londonappbrewery.Calculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kamonpan.Calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -302,13 +350,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 3ECFYJZ64T;
+				DEVELOPMENT_TEAM = 5NV8L9334K;
 				INFOPLIST_FILE = Calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.londonappbrewery.Calculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kamonpan.Calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
